@@ -5,7 +5,6 @@
 Đã test lần 5
 Đã test lần 6
 Dẫ test lần 7
-<<<<<<< HEAD
 Đã test lần 8
-=======
 Đã test lần 9
+Đã test lần 10
